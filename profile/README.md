@@ -17,5 +17,4 @@
 
 ----------
 
-![image](https://user-images.githubusercontent.com/53253298/178976097-1aa9de8b-d0dd-4df4-9573-1ea5c29ce601.png)
 
